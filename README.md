@@ -19,7 +19,7 @@ The variance-scaling failure is attributable to cyclic reuse of the fixed 2,000-
 | `cross_sections.py` | ENDF/B-VIII.0 data loader with log-log interpolation |
 | `prngs/` | Standalone PRNG implementations (`ms.py`, `lcg.py`, `mt.py`) |
 | `cross_section_data.tar.gz` | Compressed ENDF/B-VIII.0 cross-section JSON files for U-234, U-235, U-238 |
-| `main.tex` | Full write-up (LaTeX source) |
+| `Rees_Jakob_FinalReport.pdf` | Full write-up |
 
 ## Getting started
 
