@@ -1,0 +1,7 @@
+constants and all that.txt
+cross_section_data/*
+__pycache__
+midterm_main.tex
+main.tex
+*.png
+simulate_old.py
